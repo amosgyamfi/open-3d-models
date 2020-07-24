@@ -1,4 +1,6 @@
 # swiftui-component-library
+<strong>Textfield<strong>
+<img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Textfield/textfield.gif" alt="Textfield">
 
 <strong>Multiline Text Editor<strong>
 <img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Multiline%20Text%20Editor/multiline_text_editor.gif" alt="Multiline Text Editor">
