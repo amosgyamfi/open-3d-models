@@ -1,4 +1,8 @@
 # swiftui-component-library
+
+<strong>Map View<strong>
+<img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Map%20View/map.png" alt="Map View">
+
 <strong>Textfield<strong>
 <img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Textfield/textfield.gif" alt="Textfield">
 
