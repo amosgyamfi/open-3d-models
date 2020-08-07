@@ -1,13 +1,15 @@
 # swiftui-component-library
-https://github.com/amosgyamfi/swiftui-component-library/blob/master/Slider/photo_editor.gif
 
-<strong>Slider (Photo Editor)<strong>
+<strong>Slider: Photo Editor/Enhancer<strong>
 <img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Slider/photo_editor.gif" alt="slider">
   
-  <strong>Disclosure Group<strong>
+ <strong>Disclosure Group: Show ans hide content<strong>
 <img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Disclosure%20Group/disclosure_group.gif" alt="Disclosure">
   
-<strong>Map View<strong>
+ <strong>Date and Time: Different formats<strong>
+<img src=" https://github.com/amosgyamfi/swiftui-component-library/blob/master/Date%20and%20Time/date_and_time.gif" alt="date and time">
+  
+<strong>Live Map View (Showing your current location)<strong>
 <img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Map%20View/map.png" alt="Map View">
 
 <strong>Textfield<strong>
