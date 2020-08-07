@@ -1,5 +1,9 @@
 # swiftui-component-library
+https://github.com/amosgyamfi/swiftui-component-library/blob/master/Slider/photo_editor.gif
 
+<strong>Slider (Photo Editor)<strong>
+<img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Slider/photo_editor.gif" alt="slider">
+  
 <strong>Map View<strong>
 <img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Map%20View/map.png" alt="Map View">
 
