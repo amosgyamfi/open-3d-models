@@ -4,6 +4,10 @@ https://github.com/amosgyamfi/swiftui-component-library/blob/master/Slider/photo
 <strong>Slider (Photo Editor)<strong>
 <img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Slider/photo_editor.gif" alt="slider">
   
+  <strong>Disclosure Group<strong>
+<img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Disclosure%20Group/disclosure_group.gif
+  " alt="Disclosure">
+  
 <strong>Map View<strong>
 <img src="https://github.com/amosgyamfi/swiftui-component-library/blob/master/Map%20View/map.png" alt="Map View">
 
