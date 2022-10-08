@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4B5B678628F1CB3E007BD76B /* iOS16AnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B678528F1CB3E007BD76B /* iOS16AnimationsApp.swift */; };
-		4B5B678828F1CB3E007BD76B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B678728F1CB3E007BD76B /* ContentView.swift */; };
+		4B5B678828F1CB3E007BD76B /* AirPodsMax3DRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5B678728F1CB3E007BD76B /* AirPodsMax3DRotation.swift */; };
 		4B5B678A28F1CB40007BD76B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B5B678928F1CB40007BD76B /* Assets.xcassets */; };
 		4B5B678D28F1CB40007BD76B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B5B678C28F1CB40007BD76B /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		4B5B678228F1CB3E007BD76B /* iOS16Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS16Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5B678528F1CB3E007BD76B /* iOS16AnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS16AnimationsApp.swift; sourceTree = "<group>"; };
-		4B5B678728F1CB3E007BD76B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4B5B678728F1CB3E007BD76B /* AirPodsMax3DRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirPodsMax3DRotation.swift; sourceTree = "<group>"; };
 		4B5B678928F1CB40007BD76B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B5B678C28F1CB40007BD76B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				4B5B678528F1CB3E007BD76B /* iOS16AnimationsApp.swift */,
-				4B5B678728F1CB3E007BD76B /* ContentView.swift */,
+				4B5B678728F1CB3E007BD76B /* AirPodsMax3DRotation.swift */,
 				4B5B678928F1CB40007BD76B /* Assets.xcassets */,
 				4B5B678B28F1CB40007BD76B /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B5B678828F1CB3E007BD76B /* ContentView.swift in Sources */,
+				4B5B678828F1CB3E007BD76B /* AirPodsMax3DRotation.swift in Sources */,
 				4B5B678628F1CB3E007BD76B /* iOS16AnimationsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

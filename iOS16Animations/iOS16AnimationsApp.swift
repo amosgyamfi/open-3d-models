@@ -11,7 +11,7 @@ import SwiftUI
 struct iOS16AnimationsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AirPodsMax3DRotation()
         }
     }
 }
