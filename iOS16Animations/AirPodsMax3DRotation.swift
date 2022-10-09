@@ -2,12 +2,12 @@
 //  AirPodsMax3DRotation.swift
 //  iOS16Animations
 //
-//  Created by amos.gyamfi@getstream.io on 8.10.2022.
-//
 
 import SwiftUI
 
 struct AirPodsMax3DRotation: View {
+    
+    // 1. Add a state variable for the "from" and "to" animation values
     @State private var is3DYRotating = 360.0
     
     var body: some View {
@@ -35,6 +35,7 @@ struct AirPodsMax3DRotation: View {
                         .resizable()
                         .scaledToFit()
                         .frame(width: 178, height: 232)
+                    // 3. Animate the Y-coordinate
                         .rotation3DEffect(
                             .degrees(
                                 is3DYRotating * 2),
@@ -42,7 +43,9 @@ struct AirPodsMax3DRotation: View {
                                     x: 0,
                                     y: is3DYRotating,
                                     z: 0))
+                    // 4. Add the animation and easing
                         .animation(.easeOut(duration: 6).repeatForever(autoreverses: false), value: is3DYRotating)
+                    // 2. Trigger the animation
                         .onAppear {
                             is3DYRotating = .random(in: 1...80)
                         }
